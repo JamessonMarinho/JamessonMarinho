@@ -52,8 +52,8 @@
 ### Contato
 
 - [jamessonmarinho@mcgames.bet](mailto:jamessonmarinho@mcgames.bet)
-- [LinkedIn](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
-- [Conta pessoal](https://github.com/James-Script)
+- [jamessonlucas01@gmail.com](mailto:jamessonlucas01@gmail.com)
+- [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
 
 ---
 
