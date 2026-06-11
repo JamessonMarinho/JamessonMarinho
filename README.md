@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28842264/README.1.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%"/>
 <h1 align="center">Olá, Meu nome é Jamesson Marinho! </h1>
 <p align="center">
